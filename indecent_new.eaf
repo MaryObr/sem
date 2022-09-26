@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T23:36:49+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Elena/Downloads/непристойное1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./непристойное1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9361c307-97fb-42f7-ad75-87f769d7f17e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="3010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="21910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="30270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="30270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="30550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="30550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="71790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="71790"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="lector" TIER_ID="utterance">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Фильм о секскуальных извращенцах</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>так</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>а заодно и о сексе как таковом (до кучи вообще допустим)секс. Сначала мы говорим об извращениях,выгораживаем зону извращений,потом из этой зоны извращений всё начинает проэцироваться вовне, за пределы. И тогда уже всё объявляется,всё,что так или иначе связано с телесностью, объявляется на всякий случай чем-то нежелательным. ассоциироваться</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>ээ и вот эти фильмы об извращенцах, а потом уже обо всём остальном, содержат,как правило,запрещенную фразеологию,логично отсылающую к интимной сфере</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>потому что вся запрещенная фразеология кодирует интимную сферу, и если в фильме идёт речь об интимной сфере, то после этого наверняка вероятность того,что там будет интимная фразеология ну ии и так далее. Соответственно, значит,это вместе, и как следствие оскорбляются со страшной силой чувства верующих, которые, собственно, и продолжают культивировать традиционные табу. Потому что, собственно,ну кто ещё их культивирует. Не только культивирует, но в данном случае самые верующие,верующие здесь не при чём, верующие - это инструмент, (смешок), верующие так сказать это инструмент. Бедные верующие, да, вот это инструмент,они абсолютно инструментализированы, инструментализированы для принятия соответственных  для принятия соответственных зако..за.. пакетов репрессивных законов.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="lector" TIER_ID="Gestures"/>
+    <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="Gestures"
+        PARTICIPANT="lector" TIER_ID="Gestmeaning"/>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="lector" TIER_ID="translation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>the film about sexual perverts</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>yeah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>About sex in general as well to pile (in whispre: into the bargain in general suppose). sex. At first  we talk about perversions, separate a zone of perversions. And then everything from this pervertion zone starts to be projected on the outside, out of the borders. And then everything is declared, everything that is somehow connected to physicality is declared unwanted just in case.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>And these films about perverts and then about everything else usually contain prohibited phraseology, logically referring to the intimate sphere. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Because all prohibited phraseology encrypts intimate sphere, if a film discusses intimate sphere after this for sure there is a possibility of intimate phraseology being in there and so on. Accordingly, all of this together, and as a result there is a huge insult of believers' feelings, which actually continue to cultivate traditional taboos, because actually who else cultivates them. Not only do they cultivate, but in this case not the believers themselves, the believers have nothing to do with it. The believers are an instrument (a laughter), the believers so to say are an instrument. Poor believers, yeah, this instrument they are absolutely made an instrument, made an instrument for for passing according law-ll-law sets.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
