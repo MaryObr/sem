@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-11T18:33:57+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-10-14T10:51:07+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/Elena/Downloads/непристойное1.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./непристойное1.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9361c307-97fb-42f7-ad75-87f769d7f17e</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1707</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1716</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="120"/>
@@ -260,6 +260,24 @@
         <TIME_SLOT TIME_SLOT_ID="ts248"/>
         <TIME_SLOT TIME_SLOT_ID="ts249"/>
         <TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="70810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="72297"/>
+        <TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="86643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="87104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="94000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="94685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="101179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="102107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="109436"/>
+        <TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="110806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="116552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="117009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="146582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts263" TIME_VALUE="147587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts264" TIME_VALUE="159900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts265" TIME_VALUE="160000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts266" TIME_VALUE="176052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts267" TIME_VALUE="177610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts268" TIME_VALUE="199246"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ysl1974m" TIER_ID="text@ysl1974m">
@@ -316,6 +334,60 @@
                 TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts250">
                 <ANNOTATION_VALUE>но в данном случае самые верующие / верующие здесь не при чём / верующие это инструмент / (смешок), верующие так сказать это инструмент // бедные верующие да / вот это инструмент / они абсолютно инструментализированы / инструментализированы для принятия соответствующих для принятия соответственных зако..за.. пакетов репрессивных законов.
 </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1708"
+                TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts252">
+                <ANNOTATION_VALUE>мм а я бы ещё раз повторюсь что современная культура какими-либо законами она не управлялась / какими бы законами юридическими она управлялась и каких бы казАков она не нанимала для своей охраны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1709"
+                TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts254">
+                <ANNOTATION_VALUE>мм вся пропитана кодами сексуальных / отношений сексуальных фантазий поскольку целиком замешана на потребительском такишозе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1710"
+                TIME_SLOT_REF1="ts255" TIME_SLOT_REF2="ts256">
+                <ANNOTATION_VALUE>это капитализм следовательно пропитана / сексуальностью потреблением сексуальность</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1711"
+                TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
+                <ANNOTATION_VALUE>мм   в основе массовой культуры от фитнеса и диет до современного искусства и дизайна автомобилей / лежит соблазн</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1712"
+                TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts260">
+                <ANNOTATION_VALUE>мы покупатели товаронанимаем вся наша драгоценная личность сводится к функциям перевода и обмена </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1713"
+                TIME_SLOT_REF1="ts261" TIME_SLOT_REF2="ts262">
+                <ANNOTATION_VALUE>как следствие пределы вот этой вот что ли терпимости а пределы потребляемости и терпимости в отношении того что потребляется / неуклонно расширяются и как раз нарастание реактивных процессов нарастание протестных якобы против вот этого расширения да желания мм вернуться назад повернуть этот процесс вспять</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1714"
+                TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts264">
+                <ANNOTATION_VALUE>мм свидетельствуют о масштабах этого расширения #нрзб# о яномде ия аа мм который я думаю будете поминать на своих мастер / классах в ходе своих мастерклассов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1715"
+                TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts266">
+                <ANNOTATION_VALUE> писал что порнография это эротика других   это прекрасное определение порнография это эротика других что это значит? это всякая мерзость которая не касается меня такого прекрасного мхм то есть как бы эротика вот это хорошо это я а порнография это другие</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1716"
+                TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts268">
+                <ANNOTATION_VALUE>и тема непристойного в этой связи всегда предполагает в формальностях систему норм / запретов и предписаний которых конструируются в #нрзб# ивантодагестан чтобы вытеснить его на обочину общественного договора стигматизировать обвинить представить главным виновником тех так сказать проблем которые аа определяются которые аа объясняются как таковые</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
