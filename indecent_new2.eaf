@@ -6078,6 +6078,19 @@
                 <ANNOTATION_VALUE>NOUN</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="me" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="text@ysl1974m" PARTICIPANT="ysl1974m" TIER_ID="transl@ysl1974m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1217" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>The film about sexual perverts</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1218" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
                <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3242" ANNOTATION_REF="a2441">
                 <ANNOTATION_VALUE/>
