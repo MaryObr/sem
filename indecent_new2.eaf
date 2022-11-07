@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-07T22:14:57+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-07T22:49:53+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/Elena/Downloads/непристойное1.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./непристойное1.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9361c307-97fb-42f7-ad75-87f769d7f17e</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4526</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">4539</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="120"/>
@@ -881,129 +881,131 @@
         <TIME_SLOT TIME_SLOT_ID="ts869" TIME_VALUE="267375"/>
         <TIME_SLOT TIME_SLOT_ID="ts870" TIME_VALUE="267380"/>
         <TIME_SLOT TIME_SLOT_ID="ts871" TIME_VALUE="267460"/>
-        <TIME_SLOT TIME_SLOT_ID="ts872"/>
-        <TIME_SLOT TIME_SLOT_ID="ts873"/>
-        <TIME_SLOT TIME_SLOT_ID="ts874"/>
-        <TIME_SLOT TIME_SLOT_ID="ts875"/>
-        <TIME_SLOT TIME_SLOT_ID="ts876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts872" TIME_VALUE="267485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts873" TIME_VALUE="267700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts874" TIME_VALUE="267800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts875" TIME_VALUE="268130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts876" TIME_VALUE="268350"/>
         <TIME_SLOT TIME_SLOT_ID="ts877"/>
-        <TIME_SLOT TIME_SLOT_ID="ts878"/>
-        <TIME_SLOT TIME_SLOT_ID="ts879"/>
-        <TIME_SLOT TIME_SLOT_ID="ts880"/>
-        <TIME_SLOT TIME_SLOT_ID="ts881"/>
-        <TIME_SLOT TIME_SLOT_ID="ts882"/>
-        <TIME_SLOT TIME_SLOT_ID="ts883"/>
-        <TIME_SLOT TIME_SLOT_ID="ts884"/>
-        <TIME_SLOT TIME_SLOT_ID="ts885"/>
-        <TIME_SLOT TIME_SLOT_ID="ts886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts878" TIME_VALUE="269300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts879" TIME_VALUE="269529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts880" TIME_VALUE="269830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts881" TIME_VALUE="269900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts882" TIME_VALUE="270196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts883" TIME_VALUE="270850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts884" TIME_VALUE="271769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts885" TIME_VALUE="272135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts886" TIME_VALUE="272300"/>
         <TIME_SLOT TIME_SLOT_ID="ts887"/>
-        <TIME_SLOT TIME_SLOT_ID="ts888"/>
-        <TIME_SLOT TIME_SLOT_ID="ts889"/>
-        <TIME_SLOT TIME_SLOT_ID="ts890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts888" TIME_VALUE="273082"/>
+        <TIME_SLOT TIME_SLOT_ID="ts889" TIME_VALUE="273200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts890" TIME_VALUE="273550"/>
         <TIME_SLOT TIME_SLOT_ID="ts891"/>
-        <TIME_SLOT TIME_SLOT_ID="ts892"/>
-        <TIME_SLOT TIME_SLOT_ID="ts893" TIME_VALUE="267485"/>
-        <TIME_SLOT TIME_SLOT_ID="ts894" TIME_VALUE="274100"/>
-        <TIME_SLOT TIME_SLOT_ID="ts895" TIME_VALUE="274700"/>
-        <TIME_SLOT TIME_SLOT_ID="ts896" TIME_VALUE="275062"/>
-        <TIME_SLOT TIME_SLOT_ID="ts897" TIME_VALUE="275431"/>
-        <TIME_SLOT TIME_SLOT_ID="ts898" TIME_VALUE="275433"/>
-        <TIME_SLOT TIME_SLOT_ID="ts899" TIME_VALUE="275971"/>
-        <TIME_SLOT TIME_SLOT_ID="ts900" TIME_VALUE="275990"/>
-        <TIME_SLOT TIME_SLOT_ID="ts901"/>
-        <TIME_SLOT TIME_SLOT_ID="ts902"/>
-        <TIME_SLOT TIME_SLOT_ID="ts903"/>
-        <TIME_SLOT TIME_SLOT_ID="ts904"/>
-        <TIME_SLOT TIME_SLOT_ID="ts905"/>
-        <TIME_SLOT TIME_SLOT_ID="ts906"/>
-        <TIME_SLOT TIME_SLOT_ID="ts907"/>
-        <TIME_SLOT TIME_SLOT_ID="ts908"/>
-        <TIME_SLOT TIME_SLOT_ID="ts909"/>
-        <TIME_SLOT TIME_SLOT_ID="ts910"/>
-        <TIME_SLOT TIME_SLOT_ID="ts911"/>
-        <TIME_SLOT TIME_SLOT_ID="ts912"/>
-        <TIME_SLOT TIME_SLOT_ID="ts913"/>
-        <TIME_SLOT TIME_SLOT_ID="ts914"/>
-        <TIME_SLOT TIME_SLOT_ID="ts915"/>
-        <TIME_SLOT TIME_SLOT_ID="ts916"/>
-        <TIME_SLOT TIME_SLOT_ID="ts917"/>
-        <TIME_SLOT TIME_SLOT_ID="ts918"/>
+        <TIME_SLOT TIME_SLOT_ID="ts892" TIME_VALUE="274100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts893" TIME_VALUE="274490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts894" TIME_VALUE="274490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts895" TIME_VALUE="274800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts896" TIME_VALUE="274800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts897" TIME_VALUE="275320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts898" TIME_VALUE="275330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts899" TIME_VALUE="275840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts900" TIME_VALUE="275840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts901" TIME_VALUE="276250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts902" TIME_VALUE="276260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts903" TIME_VALUE="276700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts904" TIME_VALUE="277000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts905" TIME_VALUE="277463"/>
+        <TIME_SLOT TIME_SLOT_ID="ts906" TIME_VALUE="277900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts907" TIME_VALUE="278300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts908" TIME_VALUE="278400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts909" TIME_VALUE="278622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts910" TIME_VALUE="278622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts911" TIME_VALUE="279548"/>
+        <TIME_SLOT TIME_SLOT_ID="ts912" TIME_VALUE="279604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts913" TIME_VALUE="279604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts914" TIME_VALUE="279900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts915" TIME_VALUE="280200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts916" TIME_VALUE="280288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts917" TIME_VALUE="280687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts918" TIME_VALUE="280980"/>
         <TIME_SLOT TIME_SLOT_ID="ts919"/>
-        <TIME_SLOT TIME_SLOT_ID="ts920"/>
-        <TIME_SLOT TIME_SLOT_ID="ts921"/>
-        <TIME_SLOT TIME_SLOT_ID="ts922"/>
-        <TIME_SLOT TIME_SLOT_ID="ts923"/>
-        <TIME_SLOT TIME_SLOT_ID="ts924"/>
-        <TIME_SLOT TIME_SLOT_ID="ts925"/>
-        <TIME_SLOT TIME_SLOT_ID="ts926"/>
-        <TIME_SLOT TIME_SLOT_ID="ts927"/>
-        <TIME_SLOT TIME_SLOT_ID="ts928"/>
-        <TIME_SLOT TIME_SLOT_ID="ts929"/>
-        <TIME_SLOT TIME_SLOT_ID="ts930"/>
-        <TIME_SLOT TIME_SLOT_ID="ts931"/>
-        <TIME_SLOT TIME_SLOT_ID="ts932"/>
-        <TIME_SLOT TIME_SLOT_ID="ts933" TIME_VALUE="279548"/>
-        <TIME_SLOT TIME_SLOT_ID="ts934" TIME_VALUE="279923"/>
-        <TIME_SLOT TIME_SLOT_ID="ts935" TIME_VALUE="280288"/>
-        <TIME_SLOT TIME_SLOT_ID="ts936" TIME_VALUE="280360"/>
-        <TIME_SLOT TIME_SLOT_ID="ts937" TIME_VALUE="290430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts938" TIME_VALUE="290430"/>
-        <TIME_SLOT TIME_SLOT_ID="ts939" TIME_VALUE="290453"/>
-        <TIME_SLOT TIME_SLOT_ID="ts940" TIME_VALUE="290930"/>
-        <TIME_SLOT TIME_SLOT_ID="ts941"/>
-        <TIME_SLOT TIME_SLOT_ID="ts942"/>
-        <TIME_SLOT TIME_SLOT_ID="ts943"/>
-        <TIME_SLOT TIME_SLOT_ID="ts944"/>
-        <TIME_SLOT TIME_SLOT_ID="ts945"/>
-        <TIME_SLOT TIME_SLOT_ID="ts946"/>
-        <TIME_SLOT TIME_SLOT_ID="ts947"/>
-        <TIME_SLOT TIME_SLOT_ID="ts948"/>
-        <TIME_SLOT TIME_SLOT_ID="ts949"/>
-        <TIME_SLOT TIME_SLOT_ID="ts950"/>
-        <TIME_SLOT TIME_SLOT_ID="ts951"/>
-        <TIME_SLOT TIME_SLOT_ID="ts952"/>
-        <TIME_SLOT TIME_SLOT_ID="ts953"/>
-        <TIME_SLOT TIME_SLOT_ID="ts954"/>
-        <TIME_SLOT TIME_SLOT_ID="ts955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts920" TIME_VALUE="281974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts921" TIME_VALUE="282480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts922" TIME_VALUE="283200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts923" TIME_VALUE="284177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts924" TIME_VALUE="284300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts925" TIME_VALUE="284640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts926" TIME_VALUE="285400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts927" TIME_VALUE="285604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts928" TIME_VALUE="286195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts929" TIME_VALUE="286195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts930" TIME_VALUE="286770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts931" TIME_VALUE="286770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts932" TIME_VALUE="286867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts933" TIME_VALUE="287290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts934" TIME_VALUE="287500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts935" TIME_VALUE="287600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts936" TIME_VALUE="287960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts937" TIME_VALUE="288450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts938" TIME_VALUE="288870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts939" TIME_VALUE="289360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts940" TIME_VALUE="290010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts941" TIME_VALUE="290024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts942" TIME_VALUE="290453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts943" TIME_VALUE="290920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts944" TIME_VALUE="290930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts945" TIME_VALUE="291620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts946" TIME_VALUE="291953"/>
+        <TIME_SLOT TIME_SLOT_ID="ts947" TIME_VALUE="291984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts948" TIME_VALUE="292008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts949" TIME_VALUE="292170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts950" TIME_VALUE="292540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts951" TIME_VALUE="293365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts952" TIME_VALUE="293365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts953" TIME_VALUE="293719"/>
+        <TIME_SLOT TIME_SLOT_ID="ts954" TIME_VALUE="293719"/>
+        <TIME_SLOT TIME_SLOT_ID="ts955" TIME_VALUE="294450"/>
         <TIME_SLOT TIME_SLOT_ID="ts956"/>
-        <TIME_SLOT TIME_SLOT_ID="ts957"/>
-        <TIME_SLOT TIME_SLOT_ID="ts958"/>
-        <TIME_SLOT TIME_SLOT_ID="ts959"/>
-        <TIME_SLOT TIME_SLOT_ID="ts960"/>
-        <TIME_SLOT TIME_SLOT_ID="ts961"/>
-        <TIME_SLOT TIME_SLOT_ID="ts962"/>
-        <TIME_SLOT TIME_SLOT_ID="ts963"/>
-        <TIME_SLOT TIME_SLOT_ID="ts964"/>
-        <TIME_SLOT TIME_SLOT_ID="ts965"/>
-        <TIME_SLOT TIME_SLOT_ID="ts966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts957" TIME_VALUE="295130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts958" TIME_VALUE="295780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts959" TIME_VALUE="295780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts960" TIME_VALUE="295818"/>
+        <TIME_SLOT TIME_SLOT_ID="ts961" TIME_VALUE="296121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts962" TIME_VALUE="296121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts963" TIME_VALUE="296465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts964" TIME_VALUE="296494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts965" TIME_VALUE="296806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts966" TIME_VALUE="297625"/>
         <TIME_SLOT TIME_SLOT_ID="ts967"/>
-        <TIME_SLOT TIME_SLOT_ID="ts968"/>
-        <TIME_SLOT TIME_SLOT_ID="ts969"/>
-        <TIME_SLOT TIME_SLOT_ID="ts970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts971"/>
-        <TIME_SLOT TIME_SLOT_ID="ts972"/>
-        <TIME_SLOT TIME_SLOT_ID="ts973" TIME_VALUE="290930"/>
-        <TIME_SLOT TIME_SLOT_ID="ts974" TIME_VALUE="291953"/>
-        <TIME_SLOT TIME_SLOT_ID="ts975" TIME_VALUE="292008"/>
-        <TIME_SLOT TIME_SLOT_ID="ts976" TIME_VALUE="292745"/>
-        <TIME_SLOT TIME_SLOT_ID="ts977" TIME_VALUE="293108"/>
-        <TIME_SLOT TIME_SLOT_ID="ts978" TIME_VALUE="294560"/>
-        <TIME_SLOT TIME_SLOT_ID="ts979" TIME_VALUE="294923"/>
-        <TIME_SLOT TIME_SLOT_ID="ts980" TIME_VALUE="295818"/>
-        <TIME_SLOT TIME_SLOT_ID="ts981" TIME_VALUE="296375"/>
-        <TIME_SLOT TIME_SLOT_ID="ts982" TIME_VALUE="296494"/>
-        <TIME_SLOT TIME_SLOT_ID="ts983" TIME_VALUE="296738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts968" TIME_VALUE="297625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts969" TIME_VALUE="297939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts970" TIME_VALUE="298253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts971" TIME_VALUE="298800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts972" TIME_VALUE="299099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts973" TIME_VALUE="299500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts974" TIME_VALUE="299950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts976" TIME_VALUE="300506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts977" TIME_VALUE="300550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts978" TIME_VALUE="300854"/>
+        <TIME_SLOT TIME_SLOT_ID="ts979" TIME_VALUE="301170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts980" TIME_VALUE="301400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts981" TIME_VALUE="301715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts982" TIME_VALUE="301950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts983" TIME_VALUE="302220"/>
         <TIME_SLOT TIME_SLOT_ID="ts984" TIME_VALUE="302294"/>
-        <TIME_SLOT TIME_SLOT_ID="ts985" TIME_VALUE="303294"/>
-        <TIME_SLOT TIME_SLOT_ID="ts986" TIME_VALUE="303305"/>
-        <TIME_SLOT TIME_SLOT_ID="ts987" TIME_VALUE="303600"/>
-        <TIME_SLOT TIME_SLOT_ID="ts988"/>
-        <TIME_SLOT TIME_SLOT_ID="ts989"/>
-        <TIME_SLOT TIME_SLOT_ID="ts990"/>
-        <TIME_SLOT TIME_SLOT_ID="ts991" TIME_VALUE="303605"/>
-        <TIME_SLOT TIME_SLOT_ID="ts992" TIME_VALUE="304649"/>
-        <TIME_SLOT TIME_SLOT_ID="ts993" TIME_VALUE="305586"/>
-        <TIME_SLOT TIME_SLOT_ID="ts994" TIME_VALUE="306229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts985" TIME_VALUE="302380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts986" TIME_VALUE="302620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts987" TIME_VALUE="303125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts988" TIME_VALUE="303135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts989" TIME_VALUE="303595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts990" TIME_VALUE="303600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts991" TIME_VALUE="304300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts992" TIME_VALUE="304450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts993" TIME_VALUE="304649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts994" TIME_VALUE="304855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts995" TIME_VALUE="305586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts996" TIME_VALUE="306229"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="me" DEFAULT_LOCALE="ru"
         LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ysl1974m" TIER_ID="text@ysl1974m">
@@ -1141,25 +1143,25 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3399"
-                TIME_SLOT_REF1="ts871" TIME_SLOT_REF2="ts898">
-                <ANNOTATION_VALUE>тем не менее крах ССCР установинил уже новый не только подживной постакилитический и с позитивный период в поисках языка описания / секса  </ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts871" TIME_SLOT_REF2="ts897">
+                <ANNOTATION_VALUE>тем не менее крах ССCР установинил уже новый не только #нрзб#подживной постакилитический и с позитивный период в поисках языка описания / секса  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3422"
-                TIME_SLOT_REF1="ts900" TIME_SLOT_REF2="ts937">
-                <ANNOTATION_VALUE>начиная с девяносто первого года можно говорить о том / что новое российское кино перешло от неуверенных эвфемизмов сексуальности к активному использованию обнажённого тела м которое тем не менее остаётся жертвой  различных оправданий </ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts900" TIME_SLOT_REF2="ts941">
+                <ANNOTATION_VALUE>начиная с девяносто первого года можно говорить о том / что новое российское кино перешло от неуверенных эвфемизмов сексуальности к активному использованию обнажённого тела / м которое тем не менее остаётся жертвой  различных оправданий </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3423"
-                TIME_SLOT_REF1="ts940" TIME_SLOT_REF2="ts985">
-                <ANNOTATION_VALUE>непристойное должно быть сюжетно организовано / сопровождаться актёрской игрой непременно  / м хотеть быть искусством / м реализуя  общую матрицу советского кино которое в том числе по большей части всё хотело быть искусство</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts987">
+                <ANNOTATION_VALUE>непристойное должно быть сюжетно организованным / сопровождаться актёрской игрой непременно  / м хотеть быть искусством / м реализуя  общую матрицу советского кино которое в том числе по большей части всё хотело быть искусство</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3424"
-                TIME_SLOT_REF1="ts987" TIME_SLOT_REF2="ts993">
+                TIME_SLOT_REF1="ts990" TIME_SLOT_REF2="ts995">
                 <ANNOTATION_VALUE>постепенно этот диктат ослабевает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -1468,37 +1470,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4299"
-                TIME_SLOT_REF1="ts870" TIME_SLOT_REF2="ts894">
+                TIME_SLOT_REF1="ts870" TIME_SLOT_REF2="ts892">
                 <ANNOTATION_VALUE>поднял кулак, потряс ладонью к слушающим, потряс двумя пальцами,одним пальцем, движение указательным пальцем к себе,сжал кулак</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4300"
-                TIME_SLOT_REF1="ts933" TIME_SLOT_REF2="ts935">
+                TIME_SLOT_REF1="ts911" TIME_SLOT_REF2="ts916">
                 <ANNOTATION_VALUE>поднял кулак,опустил</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4301"
-                TIME_SLOT_REF1="ts939" TIME_SLOT_REF2="ts974">
+                TIME_SLOT_REF1="ts942" TIME_SLOT_REF2="ts946">
                 <ANNOTATION_VALUE> "кавычки" пальцами</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4302"
-                TIME_SLOT_REF1="ts975" TIME_SLOT_REF2="ts980">
+                TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts960">
                 <ANNOTATION_VALUE> поднял руки, потряс пальцы к слушающему к себе, обратно два раза                                               </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4303"
-                TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts984">
+                TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts984">
                 <ANNOTATION_VALUE> поднял руки, кисти от себя,сжал кулаки большие пальцы вверх, пальцы в замочек, потряс, разжа ладони,потряс</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4304"
-                TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts994">
+                TIME_SLOT_REF1="ts993" TIME_SLOT_REF2="ts996">
                 <ANNOTATION_VALUE>поднял руку в локте, развел ладонь в сторону слушающего кулак      </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -5530,133 +5532,133 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3400"
-                TIME_SLOT_REF1="ts871" TIME_SLOT_REF2="ts872">
+                TIME_SLOT_REF1="ts871" TIME_SLOT_REF2="ts873">
                 <ANNOTATION_VALUE>тем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3401"
-                TIME_SLOT_REF1="ts872" TIME_SLOT_REF2="ts873">
+                TIME_SLOT_REF1="ts873" TIME_SLOT_REF2="ts874">
                 <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3402"
-                TIME_SLOT_REF1="ts873" TIME_SLOT_REF2="ts874">
+                TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
                 <ANNOTATION_VALUE>менее</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3403"
-                TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts875">
+                TIME_SLOT_REF1="ts875" TIME_SLOT_REF2="ts876">
                 <ANNOTATION_VALUE>крах</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3404"
-                TIME_SLOT_REF1="ts875" TIME_SLOT_REF2="ts876">
+                TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
                 <ANNOTATION_VALUE>ССCР</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3405"
-                TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts877">
+                TIME_SLOT_REF1="ts877" TIME_SLOT_REF2="ts878">
                 <ANNOTATION_VALUE>установинил</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3406"
-                TIME_SLOT_REF1="ts877" TIME_SLOT_REF2="ts878">
+                TIME_SLOT_REF1="ts878" TIME_SLOT_REF2="ts879">
                 <ANNOTATION_VALUE>уже</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3407"
-                TIME_SLOT_REF1="ts878" TIME_SLOT_REF2="ts879">
+                TIME_SLOT_REF1="ts879" TIME_SLOT_REF2="ts880">
                 <ANNOTATION_VALUE>новый</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3408"
-                TIME_SLOT_REF1="ts879" TIME_SLOT_REF2="ts880">
+                TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
                 <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3409"
-                TIME_SLOT_REF1="ts880" TIME_SLOT_REF2="ts881">
+                TIME_SLOT_REF1="ts881" TIME_SLOT_REF2="ts882">
                 <ANNOTATION_VALUE>только</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3410"
-                TIME_SLOT_REF1="ts881" TIME_SLOT_REF2="ts882">
+                TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
                 <ANNOTATION_VALUE>подживной</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3411"
-                TIME_SLOT_REF1="ts882" TIME_SLOT_REF2="ts883">
+                TIME_SLOT_REF1="ts883" TIME_SLOT_REF2="ts884">
                 <ANNOTATION_VALUE>постакилитический</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3412"
-                TIME_SLOT_REF1="ts883" TIME_SLOT_REF2="ts884">
+                TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
                 <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3413"
-                TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts885">
+                TIME_SLOT_REF1="ts885" TIME_SLOT_REF2="ts886">
                 <ANNOTATION_VALUE>с</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3414"
-                TIME_SLOT_REF1="ts885" TIME_SLOT_REF2="ts886">
+                TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
                 <ANNOTATION_VALUE>позитивный</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3415"
-                TIME_SLOT_REF1="ts886" TIME_SLOT_REF2="ts887">
+                TIME_SLOT_REF1="ts887" TIME_SLOT_REF2="ts888">
                 <ANNOTATION_VALUE>период</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3416"
-                TIME_SLOT_REF1="ts887" TIME_SLOT_REF2="ts888">
+                TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
                 <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3417"
-                TIME_SLOT_REF1="ts888" TIME_SLOT_REF2="ts889">
+                TIME_SLOT_REF1="ts889" TIME_SLOT_REF2="ts890">
                 <ANNOTATION_VALUE>поисках</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3418"
-                TIME_SLOT_REF1="ts889" TIME_SLOT_REF2="ts890">
+                TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
                 <ANNOTATION_VALUE>языка</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3419"
-                TIME_SLOT_REF1="ts890" TIME_SLOT_REF2="ts891">
+                TIME_SLOT_REF1="ts891" TIME_SLOT_REF2="ts893">
                 <ANNOTATION_VALUE>описания</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3420"
-                TIME_SLOT_REF1="ts891" TIME_SLOT_REF2="ts892">
+                TIME_SLOT_REF1="ts893" TIME_SLOT_REF2="ts895">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3421"
-                TIME_SLOT_REF1="ts892" TIME_SLOT_REF2="ts898">
+                TIME_SLOT_REF1="ts895" TIME_SLOT_REF2="ts897">
                 <ANNOTATION_VALUE>секса</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -5716,367 +5718,367 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3434"
-                TIME_SLOT_REF1="ts909" TIME_SLOT_REF2="ts910">
+                TIME_SLOT_REF1="ts909" TIME_SLOT_REF2="ts912">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3435"
-                TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts911">
+                TIME_SLOT_REF1="ts912" TIME_SLOT_REF2="ts914">
                 <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3436"
-                TIME_SLOT_REF1="ts911" TIME_SLOT_REF2="ts912">
+                TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
                 <ANNOTATION_VALUE>новое</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3437"
-                TIME_SLOT_REF1="ts912" TIME_SLOT_REF2="ts913">
+                TIME_SLOT_REF1="ts915" TIME_SLOT_REF2="ts917">
                 <ANNOTATION_VALUE>российское</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3438"
-                TIME_SLOT_REF1="ts913" TIME_SLOT_REF2="ts914">
+                TIME_SLOT_REF1="ts917" TIME_SLOT_REF2="ts918">
                 <ANNOTATION_VALUE>кино</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3439"
-                TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
+                TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
                 <ANNOTATION_VALUE>перешло</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3440"
-                TIME_SLOT_REF1="ts915" TIME_SLOT_REF2="ts916">
+                TIME_SLOT_REF1="ts919" TIME_SLOT_REF2="ts920">
                 <ANNOTATION_VALUE>от</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3441"
-                TIME_SLOT_REF1="ts916" TIME_SLOT_REF2="ts917">
+                TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts921">
                 <ANNOTATION_VALUE>неуверенных</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3442"
-                TIME_SLOT_REF1="ts917" TIME_SLOT_REF2="ts918">
+                TIME_SLOT_REF1="ts921" TIME_SLOT_REF2="ts922">
                 <ANNOTATION_VALUE>эвфемизмов</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3443"
-                TIME_SLOT_REF1="ts918" TIME_SLOT_REF2="ts919">
+                TIME_SLOT_REF1="ts922" TIME_SLOT_REF2="ts923">
                 <ANNOTATION_VALUE>сексуальности</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3444"
-                TIME_SLOT_REF1="ts919" TIME_SLOT_REF2="ts920">
+                TIME_SLOT_REF1="ts923" TIME_SLOT_REF2="ts924">
                 <ANNOTATION_VALUE>к</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3445"
-                TIME_SLOT_REF1="ts920" TIME_SLOT_REF2="ts921">
+                TIME_SLOT_REF1="ts924" TIME_SLOT_REF2="ts925">
                 <ANNOTATION_VALUE>активному</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3446"
-                TIME_SLOT_REF1="ts921" TIME_SLOT_REF2="ts922">
+                TIME_SLOT_REF1="ts925" TIME_SLOT_REF2="ts926">
                 <ANNOTATION_VALUE>использованию</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3447"
-                TIME_SLOT_REF1="ts922" TIME_SLOT_REF2="ts923">
+                TIME_SLOT_REF1="ts926" TIME_SLOT_REF2="ts927">
                 <ANNOTATION_VALUE>обнажённого</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3448"
-                TIME_SLOT_REF1="ts923" TIME_SLOT_REF2="ts924">
+                TIME_SLOT_REF1="ts927" TIME_SLOT_REF2="ts928">
                 <ANNOTATION_VALUE>тела</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4528"
+                TIME_SLOT_REF1="ts928" TIME_SLOT_REF2="ts930">
+                <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3449"
-                TIME_SLOT_REF1="ts924" TIME_SLOT_REF2="ts925">
+                TIME_SLOT_REF1="ts930" TIME_SLOT_REF2="ts932">
                 <ANNOTATION_VALUE>м</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3450"
-                TIME_SLOT_REF1="ts925" TIME_SLOT_REF2="ts926">
+                TIME_SLOT_REF1="ts932" TIME_SLOT_REF2="ts933">
                 <ANNOTATION_VALUE>которое</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3451"
-                TIME_SLOT_REF1="ts926" TIME_SLOT_REF2="ts927">
+                TIME_SLOT_REF1="ts933" TIME_SLOT_REF2="ts934">
                 <ANNOTATION_VALUE>тем</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3452"
-                TIME_SLOT_REF1="ts927" TIME_SLOT_REF2="ts928">
+                TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts935">
                 <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3453"
-                TIME_SLOT_REF1="ts928" TIME_SLOT_REF2="ts929">
+                TIME_SLOT_REF1="ts935" TIME_SLOT_REF2="ts936">
                 <ANNOTATION_VALUE>менее</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3454"
-                TIME_SLOT_REF1="ts929" TIME_SLOT_REF2="ts930">
+                TIME_SLOT_REF1="ts936" TIME_SLOT_REF2="ts937">
                 <ANNOTATION_VALUE>остаётся</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3455"
-                TIME_SLOT_REF1="ts930" TIME_SLOT_REF2="ts931">
+                TIME_SLOT_REF1="ts937" TIME_SLOT_REF2="ts938">
                 <ANNOTATION_VALUE>жертвой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3456"
-                TIME_SLOT_REF1="ts931" TIME_SLOT_REF2="ts932">
+                TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts939">
                 <ANNOTATION_VALUE>различных</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3457"
-                TIME_SLOT_REF1="ts932" TIME_SLOT_REF2="ts937">
+                TIME_SLOT_REF1="ts939" TIME_SLOT_REF2="ts941">
                 <ANNOTATION_VALUE>оправданий</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3458"
-                TIME_SLOT_REF1="ts940" TIME_SLOT_REF2="ts941">
+                TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
                 <ANNOTATION_VALUE>непристойное</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3459"
-                TIME_SLOT_REF1="ts941" TIME_SLOT_REF2="ts942">
+                TIME_SLOT_REF1="ts945" TIME_SLOT_REF2="ts947">
                 <ANNOTATION_VALUE>должно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3460"
-                TIME_SLOT_REF1="ts942" TIME_SLOT_REF2="ts943">
+                TIME_SLOT_REF1="ts947" TIME_SLOT_REF2="ts949">
                 <ANNOTATION_VALUE>быть</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3461"
-                TIME_SLOT_REF1="ts943" TIME_SLOT_REF2="ts944">
+                TIME_SLOT_REF1="ts949" TIME_SLOT_REF2="ts950">
                 <ANNOTATION_VALUE>сюжетно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3462"
-                TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
-                <ANNOTATION_VALUE>организовано</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts950" TIME_SLOT_REF2="ts951">
+                <ANNOTATION_VALUE>организованным</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3463"
-                TIME_SLOT_REF1="ts945" TIME_SLOT_REF2="ts946">
+                TIME_SLOT_REF1="ts951" TIME_SLOT_REF2="ts953">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3464"
-                TIME_SLOT_REF1="ts946" TIME_SLOT_REF2="ts947">
+                TIME_SLOT_REF1="ts953" TIME_SLOT_REF2="ts955">
                 <ANNOTATION_VALUE>сопровождаться</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3465"
-                TIME_SLOT_REF1="ts947" TIME_SLOT_REF2="ts948">
+                TIME_SLOT_REF1="ts955" TIME_SLOT_REF2="ts956">
                 <ANNOTATION_VALUE>актёрской</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3466"
-                TIME_SLOT_REF1="ts948" TIME_SLOT_REF2="ts949">
+                TIME_SLOT_REF1="ts956" TIME_SLOT_REF2="ts957">
                 <ANNOTATION_VALUE>игрой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3467"
-                TIME_SLOT_REF1="ts949" TIME_SLOT_REF2="ts950">
+                TIME_SLOT_REF1="ts957" TIME_SLOT_REF2="ts958">
                 <ANNOTATION_VALUE>непременно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3468"
-                TIME_SLOT_REF1="ts950" TIME_SLOT_REF2="ts951">
+                TIME_SLOT_REF1="ts958" TIME_SLOT_REF2="ts961">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3469"
-                TIME_SLOT_REF1="ts951" TIME_SLOT_REF2="ts952">
-                <ANNOTATION_VALUE>м</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3470"
-                TIME_SLOT_REF1="ts952" TIME_SLOT_REF2="ts953">
+                TIME_SLOT_REF1="ts961" TIME_SLOT_REF2="ts963">
                 <ANNOTATION_VALUE>хотеть</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3471"
-                TIME_SLOT_REF1="ts953" TIME_SLOT_REF2="ts954">
+                TIME_SLOT_REF1="ts963" TIME_SLOT_REF2="ts965">
                 <ANNOTATION_VALUE>быть</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3472"
-                TIME_SLOT_REF1="ts954" TIME_SLOT_REF2="ts955">
+                TIME_SLOT_REF1="ts965" TIME_SLOT_REF2="ts966">
                 <ANNOTATION_VALUE>искусством</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3473"
-                TIME_SLOT_REF1="ts955" TIME_SLOT_REF2="ts956">
+                TIME_SLOT_REF1="ts966" TIME_SLOT_REF2="ts967">
                 <ANNOTATION_VALUE>/</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3474"
-                TIME_SLOT_REF1="ts956" TIME_SLOT_REF2="ts957">
+                TIME_SLOT_REF1="ts967" TIME_SLOT_REF2="ts970">
                 <ANNOTATION_VALUE>м</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3475"
-                TIME_SLOT_REF1="ts957" TIME_SLOT_REF2="ts958">
+                TIME_SLOT_REF1="ts970" TIME_SLOT_REF2="ts971">
                 <ANNOTATION_VALUE>реализуя</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3477"
-                TIME_SLOT_REF1="ts958" TIME_SLOT_REF2="ts959">
+                TIME_SLOT_REF1="ts971" TIME_SLOT_REF2="ts972">
                 <ANNOTATION_VALUE>общую</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3478"
-                TIME_SLOT_REF1="ts959" TIME_SLOT_REF2="ts960">
+                TIME_SLOT_REF1="ts972" TIME_SLOT_REF2="ts973">
                 <ANNOTATION_VALUE>матрицу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3479"
-                TIME_SLOT_REF1="ts960" TIME_SLOT_REF2="ts961">
+                TIME_SLOT_REF1="ts973" TIME_SLOT_REF2="ts974">
                 <ANNOTATION_VALUE>советского</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3480"
-                TIME_SLOT_REF1="ts961" TIME_SLOT_REF2="ts962">
+                TIME_SLOT_REF1="ts974" TIME_SLOT_REF2="ts975">
                 <ANNOTATION_VALUE>кино</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3481"
-                TIME_SLOT_REF1="ts962" TIME_SLOT_REF2="ts963">
+                TIME_SLOT_REF1="ts975" TIME_SLOT_REF2="ts976">
                 <ANNOTATION_VALUE>которое</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3482"
-                TIME_SLOT_REF1="ts963" TIME_SLOT_REF2="ts964">
+                TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
                 <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3483"
-                TIME_SLOT_REF1="ts964" TIME_SLOT_REF2="ts965">
+                TIME_SLOT_REF1="ts977" TIME_SLOT_REF2="ts978">
                 <ANNOTATION_VALUE>том</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3484"
-                TIME_SLOT_REF1="ts965" TIME_SLOT_REF2="ts966">
+                TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts979">
                 <ANNOTATION_VALUE>числе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3485"
-                TIME_SLOT_REF1="ts966" TIME_SLOT_REF2="ts967">
+                TIME_SLOT_REF1="ts979" TIME_SLOT_REF2="ts980">
                 <ANNOTATION_VALUE>по</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3486"
-                TIME_SLOT_REF1="ts967" TIME_SLOT_REF2="ts968">
+                TIME_SLOT_REF1="ts980" TIME_SLOT_REF2="ts981">
                 <ANNOTATION_VALUE>большей</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3487"
-                TIME_SLOT_REF1="ts968" TIME_SLOT_REF2="ts969">
+                TIME_SLOT_REF1="ts981" TIME_SLOT_REF2="ts982">
                 <ANNOTATION_VALUE>части</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3488"
-                TIME_SLOT_REF1="ts969" TIME_SLOT_REF2="ts970">
+                TIME_SLOT_REF1="ts982" TIME_SLOT_REF2="ts983">
                 <ANNOTATION_VALUE>всё</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3489"
-                TIME_SLOT_REF1="ts970" TIME_SLOT_REF2="ts971">
+                TIME_SLOT_REF1="ts983" TIME_SLOT_REF2="ts985">
                 <ANNOTATION_VALUE>хотело</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3490"
-                TIME_SLOT_REF1="ts971" TIME_SLOT_REF2="ts972">
+                TIME_SLOT_REF1="ts985" TIME_SLOT_REF2="ts986">
                 <ANNOTATION_VALUE>быть</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3491"
-                TIME_SLOT_REF1="ts972" TIME_SLOT_REF2="ts985">
+                TIME_SLOT_REF1="ts986" TIME_SLOT_REF2="ts987">
                 <ANNOTATION_VALUE>искусство</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3492"
-                TIME_SLOT_REF1="ts987" TIME_SLOT_REF2="ts988">
+                TIME_SLOT_REF1="ts990" TIME_SLOT_REF2="ts991">
                 <ANNOTATION_VALUE>постепенно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3493"
-                TIME_SLOT_REF1="ts988" TIME_SLOT_REF2="ts989">
+                TIME_SLOT_REF1="ts991" TIME_SLOT_REF2="ts992">
                 <ANNOTATION_VALUE>этот</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3494"
-                TIME_SLOT_REF1="ts989" TIME_SLOT_REF2="ts990">
+                TIME_SLOT_REF1="ts992" TIME_SLOT_REF2="ts994">
                 <ANNOTATION_VALUE>диктат</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3495"
-                TIME_SLOT_REF1="ts990" TIME_SLOT_REF2="ts993">
+                TIME_SLOT_REF1="ts994" TIME_SLOT_REF2="ts995">
                 <ANNOTATION_VALUE>ослабевает</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -9425,6 +9427,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4529" ANNOTATION_REF="a4528" CVE_REF="cveid_0234253e-02d3-4010-b3fd-998fe88d42c3">
+                <ANNOTATION_VALUE>PUNCT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4196" ANNOTATION_REF="a3449" CVE_REF="cveid_2292f705-1fd8-4a21-b894-6184c91e752f">
                 <ANNOTATION_VALUE>INTJ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -9522,11 +9529,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4215" ANNOTATION_REF="a3468" CVE_REF="cveid_0234253e-02d3-4010-b3fd-998fe88d42c3">
                 <ANNOTATION_VALUE>PUNCT</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4216" ANNOTATION_REF="a3469" CVE_REF="cveid_2292f705-1fd8-4a21-b894-6184c91e752f">
-                <ANNOTATION_VALUE>INTJ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10158,55 +10160,61 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4526"
-                TIME_SLOT_REF1="ts869" TIME_SLOT_REF2="ts893">
+                TIME_SLOT_REF1="ts869" TIME_SLOT_REF2="ts872">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4262"
-                TIME_SLOT_REF1="ts895" TIME_SLOT_REF2="ts896">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4527"
+                TIME_SLOT_REF1="ts894" TIME_SLOT_REF2="ts896">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4263"
-                TIME_SLOT_REF1="ts897" TIME_SLOT_REF2="ts899">
+                TIME_SLOT_REF1="ts898" TIME_SLOT_REF2="ts899">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4264"
-                TIME_SLOT_REF1="ts934" TIME_SLOT_REF2="ts936">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4530"
+                TIME_SLOT_REF1="ts910" TIME_SLOT_REF2="ts913">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4265"
-                TIME_SLOT_REF1="ts938" TIME_SLOT_REF2="ts973">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4531"
+                TIME_SLOT_REF1="ts929" TIME_SLOT_REF2="ts931">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4266"
-                TIME_SLOT_REF1="ts976" TIME_SLOT_REF2="ts977">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4532"
+                TIME_SLOT_REF1="ts940" TIME_SLOT_REF2="ts943">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4267"
-                TIME_SLOT_REF1="ts978" TIME_SLOT_REF2="ts979">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4536"
+                TIME_SLOT_REF1="ts952" TIME_SLOT_REF2="ts954">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4268"
-                TIME_SLOT_REF1="ts981" TIME_SLOT_REF2="ts983">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4537"
+                TIME_SLOT_REF1="ts959" TIME_SLOT_REF2="ts962">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4269"
-                TIME_SLOT_REF1="ts986" TIME_SLOT_REF2="ts991">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4538"
+                TIME_SLOT_REF1="ts968" TIME_SLOT_REF2="ts969">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4539"
+                TIME_SLOT_REF1="ts988" TIME_SLOT_REF2="ts989">
                 <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
